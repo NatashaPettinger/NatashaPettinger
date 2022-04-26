@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Natasha Pettinger and I am a software engineer. I'm from Wyoming, living in Cody, and currently working at 100Devs and helping run my family distillery. You can find me on [![image](https://user-images.githubusercontent.com/101432299/165361675-fbaa1016-3af5-4eac-9393-892e547731e4.png)](https://www.linkedin.com/in/natasha-pettinger/).
+My name is Natasha Pettinger and I'm from Wyoming. I'm currently working at 100Devs and helping run my family distillery. You can find me on [LinkedIn](https://www.linkedin.com/in/natasha-pettinger/).
+
 <!--
 **NatashaPettinger/NatashaPettinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=<NatashaPettinger>" />
+[![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=natashapettinger&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natashapettinger&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
